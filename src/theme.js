@@ -5,6 +5,8 @@ export const theme = {
     primaryText: '#010101',
     secondaryText: '#757575',
     backgroundBody: '#F5F4FA',
+    green: 'green',
+    red: 'red',
   },
   space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
   fonts: {
